@@ -1,10 +1,3 @@
-0
-Initializing SDP sensor
-SDP sensor initialized
-1
-SN:1820000045  FlowOffset:0.00 FlowScale:256.00  TempOffset:20000.00  TempScale:100.00 SFM Status:02
-3
-SETUP DONE
 r_f_set: 2.00   PWM: 7.00   Flow_SFM: 5.78   Flow_SDP: 6.30   Mean_Pressure: 2.44
 r_f_set: 2.00   PWM: 7.00   Flow_SFM: 4.96   Flow_SDP: 5.61   Mean_Pressure: 2.07
 r_f_set: 2.00   PWM: 7.00   Flow_SFM: 4.24   Flow_SDP: 4.61   Mean_Pressure: 1.67
@@ -1448,7 +1441,4 @@ r_f_set: 30.00   PWM: 200.46   Flow_SFM: 30.09   Flow_SDP: 28.31   Mean_Pressure
 r_f_set: 30.00   PWM: 204.84   Flow_SFM: 29.94   Flow_SDP: 27.87   Mean_Pressure: 33.13
 r_f_set: 30.00   PWM: 199.34   Flow_SFM: 30.05   Flow_SDP: 27.31   Mean_Pressure: 34.01
 r_f_set: 30.00   PWM: 205.17   Flow_SFM: 29.97   Flow_SDP: 27.74   Mean_Pressure: 33.27
-r_f_set: 30.00   PWM: 194.27   Flow_SFM: 30.07   Flow_SDP: 29.02   Mean_Pressure: 33.41
-Take it out#########################r_f_set: 2.00   PWM: 7.00   Flow_SFM: 30.10   Flow_SDP: 27.19   Mean_Pressure: 32.72
-r_f_set: 2.00   PWM: 63.81   Flow_SFM: 25.80   Flow_SDP: 25.02   Mean_Pressure: 25.25
-r_f_set: 2.00   PWM: 24.39   Flow_SFM: 20.89   Flow_SDP: 18.62   Mean_Pressure: 17.12
+r_f_set: 30.00   PWM: 194.27   Flow_SFM: 30.07   Flow_SDP: 29.02   Mean_Pressure: 33.41
